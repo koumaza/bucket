@@ -4,7 +4,6 @@
     "homepage": "https://github.com/nathanchance/WSL2-Linux-Kernel",
     "license": "GPL-2.0-only",
     "url":  "https://github.com/nathanchance/WSL2-Linux-Kernel/releases/download/wsl2-cbl-kernel-next-20200424-v15/bzImage",
-    "hash": "EE9E3DD089A6659A7BE85F1A103C3E1D0D2CAC15F7ED9F915F33CAB9B1FCEAF4",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/nathanchance/WSL2-Linux-Kernel/releases/download/$version/bzImage"

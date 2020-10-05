@@ -1,1 +1,9 @@
-`scoop bucket add wsl2-next https://github.com/koumaza/bucket.git`
+## Personal bucket
+
+`scoop bucket add koumaza-bucket https://github.com/koumaza/bucket.git`
+
+## Provide Packages
+
+- `wsl2-next`
+
+> nathanchance's WSL2-Linux-Kernel

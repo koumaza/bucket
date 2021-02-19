@@ -1,9 +1,9 @@
 {
-    "version": "wsl2-cbl-kernel-next-20201223-v54",
+    "version": "wsl2-cbl-kernel-next-20210219-v57",
     "description": "WSL2 Kernel for the next stage",
     "homepage": "https://github.com/nathanchance/WSL2-Linux-Kernel",
     "license": "GPL-2.0-only",
-    "url":  "https://github.com/nathanchance/WSL2-Linux-Kernel/releases/download/wsl2-cbl-kernel-next-20201223-v54/bzImage",
+    "url":  "https://github.com/nathanchance/WSL2-Linux-Kernel/releases/download/wsl2-cbl-kernel-next-20210219-v57/bzImage",
     "checkver": "github",
     "autoupdate": {
         "url": "https://github.com/nathanchance/WSL2-Linux-Kernel/releases/download/$version/bzImage"

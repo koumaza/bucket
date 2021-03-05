@@ -7,3 +7,7 @@
 - `wsl2-next`
 
 > nathanchance's WSL2-Linux-Kernel
+
+- `open-screenclip`
+
+> easy to open screenclipped data

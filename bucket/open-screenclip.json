@@ -1,0 +1,27 @@
+{
+    "version": "1.0.0",
+    "description": "Open Directory That Saved Data of ScreenClip",
+    "homepage": "https://gitlab.com/-/snippets/2086271",
+    "license": "WTFPL",
+    "url": [
+        "https://gitlab.com/-/snippets/2086271/raw/master/ScreenClip.ps1",
+        "https://gitlab.com/-/snippets/2086271/raw/master/OpenScreenClip.bat",
+        "https://gitlab.com/-/snippets/2086271/raw/master/OpenExplorer.ps1",
+        "https://gitlab.com/-/snippets/2086271/raw/master/SetVar.ps1",
+        "https://gitlab.com/-/snippets/2086271/raw/master/ScreenClipVar.bat",
+        "https://gitlab.com/uploads/-/system/personal_snippet/2086271/95ff8b0bbee5b3badcfadfbffc68caa9/SnipSketchLargeTile.scale-256.ico"
+    ],
+    "bin": [
+            "ScreenClip.ps1",
+            "OpenScreenClip.bat",
+            "ScreenClipVar.bat"
+    ],
+    "shortcuts": [
+        [
+            "ScreenClip.ps1",
+            "Open ScreenClipped Data",
+            "",
+            "SnipSketchLargeTile.scale-256.ico"
+        ],
+    ],
+}

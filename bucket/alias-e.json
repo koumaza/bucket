@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "description": "Alias to Open Explorer",
+    "homepage": "https://gitlab.com/-/snippets/2105185",
+    "license": "WTFPL",
+    "url": [
+        "https://gitlab.com/-/snippets/2105185/raw/master/e.ps1"
+    ],
+    "bin": [
+            "e.ps1"
+    ]
+}

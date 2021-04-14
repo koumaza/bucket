@@ -11,3 +11,7 @@
 - `open-screenclip`
 
 > easy to open screenclipped thumbnail data
+
+- `alias-e`
+
+> alias to open explorer

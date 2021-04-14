@@ -10,4 +10,4 @@
 
 - `open-screenclip`
 
-> easy to open screenclipped data
+> easy to open screenclipped thumbnail data

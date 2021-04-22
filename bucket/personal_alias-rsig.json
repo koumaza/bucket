@@ -4,7 +4,7 @@
     "homepage": "https://gitlab.com/-/snippets/2108354",
     "license": "WTFPL",
     "url": [
-        "https://gitlab.com/-/snippets/2108354/raw/2108354/rsig.ps1"
+        "https://gitlab.com/-/snippets/2108354/raw/master/rsig.ps1"
     ],
     "bin": [
             "rsig.ps1"

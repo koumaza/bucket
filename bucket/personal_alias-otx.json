@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "description": "Open TaskBarX",
+    "homepage": "https://gitlab.com/-/snippets/2108950",
+    "license": "WTFPL",
+    "url": [
+        "https://gitlab.com/-/snippets/2108950/raw/master/otx.ps1"
+    ],
+    "bin": [
+            "otx.ps1"
+    ]
+}

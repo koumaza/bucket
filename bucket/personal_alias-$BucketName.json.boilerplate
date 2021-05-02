@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "description": "I am a useless",
+    "homepage": "https://gitlab.com/-/snippets/0000000",
+    "license": "WTFPL",
+    "url": [
+        "https://gitlab.com/-/snippets/0000000/raw/master/0123456789abcdef.executable"
+    ],
+    "bin": [
+            "0123456789abcdef.executable"
+    ]
+}

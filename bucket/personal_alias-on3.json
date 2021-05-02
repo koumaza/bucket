@@ -1,0 +1,12 @@
+{
+    "version": "1.0.0",
+    "description": "Alias To Open Notepad3",
+    "homepage": "https://gitlab.com/-/snippets/2114158",
+    "license": "WTFPL",
+    "url": [
+        "https://gitlab.com/-/snippets/2114158/raw/master/on3.ps1"
+    ],
+    "bin": [
+            "on3.ps1"
+    ]
+}

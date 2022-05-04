@@ -6,7 +6,7 @@
     "url":  "https://github.com/nathanchance/WSL2-Linux-Kernel/releases/download/wsl2-cbl-kernel-next-20220405-vv64/bzImage",
     "checkver": {
         "regex": "wsl2-cbl-kernel-next-([0-2]{2})([\\d]{2})[0-1][\\d][0-3][\\d]-(v|vv)([\\d]+)"
-    }
+    },
     "autoupdate": {
         "url": "https://github.com/nathanchance/WSL2-Linux-Kernel/releases/download/$version/bzImage"
     }

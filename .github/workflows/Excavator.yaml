@@ -1,5 +1,8 @@
 # src: https://github.com/ScoopInstaller/Extras/blob/master/.github/workflows/excavator.yml
 on:
+  push:
+    branches: 
+      - master
   workflow_dispatch:
   schedule:
     # run every 4 min

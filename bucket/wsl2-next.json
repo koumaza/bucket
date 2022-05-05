@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "url": "https://github.com/nathanchance/WSL2-Linux-Kernel/releases/download/20/bzImage",
     "checkver": {
-        "regex": "wsl2-cbl-kernel-next-([0-2]{2})([\\d]{2})[0-1][\\d][0-3][\\d]-(v|vv)([\\d]+)"
+        "regex": ".*"
     },
     "autoupdate": {
         "url": "https://github.com/nathanchance/WSL2-Linux-Kernel/releases/download/$version/bzImage"

@@ -5,7 +5,7 @@
     "license": "GPL-2.0-only",
     "url": "https://github.com/nathanchance/WSL2-Linux-Kernel/releases/download/wsl2-cbl-kernel-next-20220125-v63/bzImage",
     "checkver": {
-        "regex": ".*"
+        "regex": "(.*)"
     },
     "autoupdate": {
         "url": "https://github.com/nathanchance/WSL2-Linux-Kernel/releases/download/$version/bzImage"
